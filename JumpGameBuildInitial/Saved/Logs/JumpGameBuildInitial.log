@@ -4526,3 +4526,350 @@ Make sure 'BP_Platform_C' has been compiled for  Get PlatformMesh
 [2020.05.10-14.03.00:219][ 16]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/JGProofofConcept_BuiltDataB968153449895AA470FB598349AC284C.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept_BuiltData.uasset'
 [2020.05.10-14.03.00:226][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Maps/JGProofofConcept_BuiltData" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept_BuiltData.uasset" SILENT=true
 [2020.05.10-14.03.00:378][ 16]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/JGProofofConcept_BuiltDataC5B34A46404081D78DB08B8C923A0BF1.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept_BuiltData.uasset'
+[2020.05.10-14.09.11:702][598]AssetReimport: New page: Outstanding source content changes 16:09:11
+[2020.05.10-14.09.11:770][598]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Jump-Game/JumpGameBuildInitial/Content/T_YellowPlaceholder.png)
+[2020.05.10-14.09.11:860][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/T_YellowPlaceholder" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/T_YellowPlaceholder.uasset" SILENT=true
+[2020.05.10-14.09.11:877][599]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/T_YellowPlaceholderAA49F55748F2B4E7FE311B87678312C9.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/T_YellowPlaceholder.uasset'
+[2020.05.10-14.09.14:895][955]AssetReimport: Importing new asset /Game/T_YellowPlaceholder.
+[2020.05.10-14.09.23:258][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/T_YellowPlaceholder" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Platforms/T_YellowPlaceholder.uasset" SILENT=true
+[2020.05.10-14.09.23:280][941]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/T_YellowPlaceholderE358E2A5495B93FCE5BDFC9D02C08126.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Platforms/T_YellowPlaceholder.uasset'
+[2020.05.10-14.09.23:425][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.05.10-14.09.23:453][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.05.10-14.09.23:478][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.05.10-14.09.55:222][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Placeholders/T_YellowPlaceholder" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Platforms/Placeholders/T_YellowPlaceholder.uasset" SILENT=true
+[2020.05.10-14.09.55:233][725]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/T_YellowPlaceholderE3161B8F483DB15598C06EA37349AD2C.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Platforms/Placeholders/T_YellowPlaceholder.uasset'
+[2020.05.10-14.09.55:346][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.10-14.09.55:375][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.05.10-14.09.55:398][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.05.10-14.10.15:303][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Placeholders/PTex/T_YellowPlaceholder" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Platforms/Placeholders/PTex/T_YellowPlaceholder.uasset" SILENT=true
+[2020.05.10-14.10.15:314][ 95]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/T_YellowPlaceholder011394A843879AEFB3351D98A7692163.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Platforms/Placeholders/PTex/T_YellowPlaceholder.uasset'
+[2020.05.10-14.10.15:428][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.05.10-14.10.15:458][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.05.10-14.10.15:477][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.10-14.10.25:898][332]LogAssetEditorManager: Opening Asset editor for Material /Game/Platforms/Placeholders/PMats/M_PlaceholderYellow.M_PlaceholderYellow
+[2020.05.10-14.10.26:155][332]LogMaterial: Display: Missing cached shader map for material M_PlaceholderYellow, compiling. 
+[2020.05.10-14.10.26:837][332]LogMaterial: Display: Missing cached shader map for material M_PlaceholderYellow, compiling. 
+[2020.05.10-14.10.26:855][332]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.10-14.10.27:481][371]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.10-14.10.28:794][503]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.05.10-14.10.28:794][503]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.05.10-14.10.28:794][503]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.10-14.10.28:794][503]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.10-14.10.35:270][218]LogMaterial: Display: Missing cached shader map for material M_PlaceholderYellow, compiling. 
+[2020.05.10-14.10.35:282][218]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.10-14.10.35:287][218]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.10-14.10.35:312][218]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.10-14.10.35:992][277]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.10-14.10.37:089][382]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.05.10-14.10.37:089][382]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.05.10-14.10.37:089][382]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.10-14.10.37:089][382]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.10-14.10.37:133][387]LogMaterial: Display: Missing cached shader map for material M_PlaceholderYellow, compiling. 
+[2020.05.10-14.10.37:148][387]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.10-14.10.37:163][387]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.10-14.10.37:948][459]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.10-14.10.39:168][575]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.05.10-14.10.39:168][575]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.05.10-14.10.39:168][575]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.10-14.10.39:168][575]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.10-14.10.39:168][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.10-14.10.39:168][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.10-14.10.40:902][778]LogMaterialEditor: Saving and Compiling material M_PlaceholderYellow
+[2020.05.10-14.10.41:248][778]LogMaterial: Display: Missing cached shader map for material M_PlaceholderYellow, compiling. 
+[2020.05.10-14.10.41:294][778]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.10-14.10.41:300][778]LogMaterial: Display: Missing cached shader map for material M_PlaceholderYellow, compiling. 
+[2020.05.10-14.10.41:318][778]LogMaterial: Display: Missing cached shader map for material M_PlaceholderYellow, compiling. 
+[2020.05.10-14.10.41:360][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.05.10-14.10.41:368][778]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.10-14.10.42:648][778]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.05.10-14.10.42:648][778]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.10-14.10.42:649][778]TextureStreamingBuild: Display: Compiling optional shaders took 1.289 seconds.
+[2020.05.10-14.10.42:679][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.05.10-14.10.44:905][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Placeholders/PMats/M_PlaceholderYellow" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Platforms/Placeholders/PMats/M_PlaceholderYellow.uasset" SILENT=true
+[2020.05.10-14.10.44:925][778]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/M_PlaceholderYellow188A136A4D285A5CCDB1BCAD9675F19F.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Platforms/Placeholders/PMats/M_PlaceholderYellow.uasset'
+[2020.05.10-14.10.56:780][833]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Platforms/Blueprints/BP_PlatformYellow.BP_PlatformYellow
+[2020.05.10-14.11.01:899][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.10-14.11.04:691][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.10-14.11.04:785][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Blueprints/BP_PlatformYellow" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Platforms/Blueprints/BP_PlatformYellow.uasset" SILENT=true
+[2020.05.10-14.11.04:822][679]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/BP_PlatformYellow7AB0803F45A7732EF4AAA1A178DC18FC.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Platforms/Blueprints/BP_PlatformYellow.uasset'
+[2020.05.10-14.11.09:350][210]LogEditorViewport: Clicking on Actor (LMB): BP_PlatformYellow_C (BP_Platform)
+[2020.05.10-14.11.12:013][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.10-14.11.12:480][567]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.10-14.11.12:497][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.11.12:497][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.10-14.11.12:497][567]PIE: New page: PIE session: JGProofofConcept (10 May 2020 16:11:12)
+[2020.05.10-14.11.12:498][567]LogPlayLevel: Creating play world package: /Game/Player/Maps/UEDPIE_0_JGProofofConcept
+[2020.05.10-14.11.12:508][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009844s)
+[2020.05.10-14.11.12:508][567]LogAIModule: Creating AISystem for world JGProofofConcept
+[2020.05.10-14.11.12:508][567]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2020.05.10-14.11.12:508][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player/Maps/JGProofofConcept.JGProofofConcept to /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept (0.010651s)
+[2020.05.10-14.11.12:536][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.05.10-14.11.12:547][567]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.10-14.11.12:562][567]LogInit: FAudioDevice initialized.
+[2020.05.10-14.11.12:593][567]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.10-14.11.12:594][567]LogWorld: Bringing World /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept up for play (max tick rate 0) at 2020.05.10-15.11.12
+[2020.05.10-14.11.12:594][567]LogWorld: Bringing up level for play took: 0.000677
+[2020.05.10-14.11.12:606][567]PIE: Play in editor start time for /Game/Player/Maps/UEDPIE_0_JGProofofConcept -0.883
+[2020.05.10-14.11.12:607][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.11.14:370][775]LogBlueprintUserMessages: [BP_Platform_2] OVERLAP
+[2020.05.10-14.11.14:858][833]LogBlueprintUserMessages: [BP_Platform_2] OVERLAP
+[2020.05.10-14.11.15:530][907]LogBlueprintUserMessages: [BP_Platform_2] OVERLAP
+[2020.05.10-14.11.18:598][275]LogBlueprintUserMessages: [BP_Platform_2] OVERLAP
+[2020.05.10-14.11.19:723][410]LogBlueprintUserMessages: [BP_Platform_2] OVERLAP
+[2020.05.10-14.11.21:740][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.11.21:740][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-14.11.21:768][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.10-14.11.21:768][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.11.21:799][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-14.11.21:802][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.05.10-14.11.21:846][655]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.05.10-14.11.24:532][968]LogEditorViewport: Clicking on Actor (LMB): BP_PlatformYellow_C (BP_Platform)
+[2020.05.10-14.11.28:403][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.10-14.11.29:308][495]Cmd: DUPLICATE
+[2020.05.10-14.11.29:308][495]Cmd: ACTOR DUPLICATE
+[2020.05.10-14.11.34:925][116]LogEditorViewport: Clicking on Actor (LMB): BP_PlatformYellow_C (BP_Platform)
+[2020.05.10-14.11.43:159][ 35]Cmd: DUPLICATE
+[2020.05.10-14.11.43:159][ 35]Cmd: ACTOR DUPLICATE
+[2020.05.10-14.11.45:989][335]Cmd: DUPLICATE
+[2020.05.10-14.11.45:989][335]Cmd: ACTOR DUPLICATE
+[2020.05.10-14.11.47:438][498]Cmd: DUPLICATE
+[2020.05.10-14.11.47:438][498]Cmd: ACTOR DUPLICATE
+[2020.05.10-14.11.49:235][708]Cmd: DUPLICATE
+[2020.05.10-14.11.49:235][708]Cmd: ACTOR DUPLICATE
+[2020.05.10-14.11.50:520][856]Cmd: DUPLICATE
+[2020.05.10-14.11.50:520][856]Cmd: ACTOR DUPLICATE
+[2020.05.10-14.11.52:776][121]Cmd: DUPLICATE
+[2020.05.10-14.11.52:776][121]Cmd: ACTOR DUPLICATE
+[2020.05.10-14.11.54:990][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.10-14.11.55:074][391]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.10-14.11.55:083][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.11.55:083][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.10-14.11.55:083][391]PIE: New page: PIE session: JGProofofConcept (10 May 2020 16:11:55)
+[2020.05.10-14.11.55:083][391]LogPlayLevel: Creating play world package: /Game/Player/Maps/UEDPIE_0_JGProofofConcept
+[2020.05.10-14.11.55:093][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009716s)
+[2020.05.10-14.11.55:094][391]LogAIModule: Creating AISystem for world JGProofofConcept
+[2020.05.10-14.11.55:094][391]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2020.05.10-14.11.55:094][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player/Maps/JGProofofConcept.JGProofofConcept to /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept (0.010658s)
+[2020.05.10-14.11.55:124][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.05.10-14.11.55:134][391]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.10-14.11.55:149][391]LogInit: FAudioDevice initialized.
+[2020.05.10-14.11.55:175][391]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.10-14.11.55:176][391]LogWorld: Bringing World /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept up for play (max tick rate 0) at 2020.05.10-15.11.55
+[2020.05.10-14.11.55:177][391]LogWorld: Bringing up level for play took: 0.001136
+[2020.05.10-14.11.55:189][391]PIE: Play in editor start time for /Game/Player/Maps/UEDPIE_0_JGProofofConcept -0.3
+[2020.05.10-14.11.55:191][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.11.59:623][919]LogBlueprintUserMessages: [BP_Platform_2] OVERLAP
+[2020.05.10-14.12.00:665][ 44]LogBlueprintUserMessages: [BP_Platform2] OVERLAP
+[2020.05.10-14.12.01:857][187]LogBlueprintUserMessages: [BP_Platform3] OVERLAP
+[2020.05.10-14.12.02:882][310]LogBlueprintUserMessages: [BP_Platform4] OVERLAP
+[2020.05.10-14.12.04:390][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.12.04:391][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-14.12.04:436][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.10-14.12.04:436][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.12.04:515][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-14.12.04:519][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.05.10-14.12.04:534][466]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.05.10-14.12.05:188][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.10-14.12.05:529][584]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.10-14.12.05:538][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.12.05:538][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.10-14.12.05:538][584]PIE: New page: PIE session: JGProofofConcept (10 May 2020 16:12:05)
+[2020.05.10-14.12.05:538][584]LogPlayLevel: Creating play world package: /Game/Player/Maps/UEDPIE_0_JGProofofConcept
+[2020.05.10-14.12.05:547][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008260s)
+[2020.05.10-14.12.05:547][584]LogAIModule: Creating AISystem for world JGProofofConcept
+[2020.05.10-14.12.05:548][584]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2020.05.10-14.12.05:548][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player/Maps/JGProofofConcept.JGProofofConcept to /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept (0.009312s)
+[2020.05.10-14.12.05:577][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.05.10-14.12.05:586][584]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.10-14.12.05:600][584]LogInit: FAudioDevice initialized.
+[2020.05.10-14.12.05:628][584]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.10-14.12.05:629][584]LogWorld: Bringing World /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept up for play (max tick rate 0) at 2020.05.10-15.12.05
+[2020.05.10-14.12.05:630][584]LogWorld: Bringing up level for play took: 0.001079
+[2020.05.10-14.12.05:642][584]PIE: Play in editor start time for /Game/Player/Maps/UEDPIE_0_JGProofofConcept 0.152
+[2020.05.10-14.12.05:642][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.12.10:082][113]LogBlueprintUserMessages: [BP_Platform_2] OVERLAP
+[2020.05.10-14.12.11:457][278]LogBlueprintUserMessages: [BP_Platform2] OVERLAP
+[2020.05.10-14.12.12:558][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.12.12:558][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-14.12.12:585][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.10-14.12.12:586][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.12.12:618][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-14.12.12:621][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.05.10-14.12.12:664][413]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.05.10-14.12.13:272][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.10-14.12.13:356][496]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.10-14.12.13:364][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.12.13:364][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.10-14.12.13:364][496]PIE: New page: PIE session: JGProofofConcept (10 May 2020 16:12:13)
+[2020.05.10-14.12.13:364][496]LogPlayLevel: Creating play world package: /Game/Player/Maps/UEDPIE_0_JGProofofConcept
+[2020.05.10-14.12.13:373][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008581s)
+[2020.05.10-14.12.13:373][496]LogAIModule: Creating AISystem for world JGProofofConcept
+[2020.05.10-14.12.13:374][496]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2020.05.10-14.12.13:374][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player/Maps/JGProofofConcept.JGProofofConcept to /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept (0.009495s)
+[2020.05.10-14.12.13:402][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.05.10-14.12.13:411][496]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.10-14.12.13:425][496]LogInit: FAudioDevice initialized.
+[2020.05.10-14.12.13:454][496]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.10-14.12.13:459][496]LogWorld: Bringing World /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept up for play (max tick rate 0) at 2020.05.10-15.12.13
+[2020.05.10-14.12.13:460][496]LogWorld: Bringing up level for play took: 0.003659
+[2020.05.10-14.12.13:475][496]PIE: Play in editor start time for /Game/Player/Maps/UEDPIE_0_JGProofofConcept -0.014
+[2020.05.10-14.12.13:476][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.12.17:620][985]LogBlueprintUserMessages: [BP_Platform_2] OVERLAP
+[2020.05.10-14.12.18:829][130]LogBlueprintUserMessages: [BP_Platform2] OVERLAP
+[2020.05.10-14.12.22:750][600]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.12.22:750][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-14.12.22:778][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.10-14.12.22:779][600]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.12.22:808][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-14.12.22:812][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.05.10-14.12.22:855][603]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.05.10-14.12.27:237][120]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.05.10-14.12.28:886][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.10-14.12.40:604][707]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.05.10-14.14.21:469][450]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.05.10-14.14.21:691][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.05.10-14.14.22:099][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Blueprints/FirstPersonCharacter" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Player/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2020.05.10-14.14.22:148][479]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/FirstPersonCharacter4057EA40479F2C42028741B016818512.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Player/Blueprints/FirstPersonCharacter.uasset'
+[2020.05.10-14.14.25:443][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Maps/JGProofofConcept" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.10-14.14.25:469][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.05.10-14.14.25:861][853]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/JGProofofConceptEAE03C7E49B9761A8654AC96483B2D8B.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept.umap'
+[2020.05.10-14.14.25:944][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Maps/JGProofofConcept_BuiltData" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept_BuiltData.uasset" SILENT=true
+[2020.05.10-14.14.26:194][853]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/JGProofofConcept_BuiltData90C3B98D4E1BADAA92E962992C7ED87A.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept_BuiltData.uasset'
+[2020.05.10-14.14.28:709][151]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.10-14.14.28:724][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.14.28:724][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.10-14.14.28:724][151]PIE: New page: PIE session: JGProofofConcept (10 May 2020 16:14:28)
+[2020.05.10-14.14.28:724][151]LogPlayLevel: Creating play world package: /Game/Player/Maps/UEDPIE_0_JGProofofConcept
+[2020.05.10-14.14.28:734][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009112s)
+[2020.05.10-14.14.28:734][151]LogAIModule: Creating AISystem for world JGProofofConcept
+[2020.05.10-14.14.28:734][151]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2020.05.10-14.14.28:735][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player/Maps/JGProofofConcept.JGProofofConcept to /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept (0.010121s)
+[2020.05.10-14.14.28:766][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.05.10-14.14.28:776][151]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.10-14.14.28:790][151]LogInit: FAudioDevice initialized.
+[2020.05.10-14.14.28:816][151]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.10-14.14.28:819][151]LogWorld: Bringing World /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept up for play (max tick rate 0) at 2020.05.10-15.14.28
+[2020.05.10-14.14.28:821][151]LogWorld: Bringing up level for play took: 0.002440
+[2020.05.10-14.14.28:834][151]PIE: Play in editor start time for /Game/Player/Maps/UEDPIE_0_JGProofofConcept -0.655
+[2020.05.10-14.14.28:835][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.14.30:076][264]LogNet: Browse: /Game/Player/Maps/JGProofofConcept
+[2020.05.10-14.14.30:079][264]LogLoad: LoadMap: /Game/Player/Maps/JGProofofConcept
+[2020.05.10-14.14.30:144][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.05.10-14.14.30:178][264]LogPlayLevel: Creating play world package: /Game/Player/Maps/UEDPIE_0_JGProofofConcept
+[2020.05.10-14.14.30:185][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008536s)
+[2020.05.10-14.14.30:186][264]LogAIModule: Creating AISystem for world JGProofofConcept
+[2020.05.10-14.14.30:186][264]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2020.05.10-14.14.30:186][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player/Maps/JGProofofConcept.JGProofofConcept to /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept (0.009403s)
+[2020.05.10-14.14.30:186][264]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.10-14.14.30:192][264]LogWorld: Bringing World /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept up for play (max tick rate 0) at 2020.05.10-15.14.30
+[2020.05.10-14.14.30:193][264]LogWorld: Bringing up level for play took: 0.005724
+[2020.05.10-14.14.30:200][264]LogLoad: Took 0.121226 seconds to LoadMap(/Game/Player/Maps/UEDPIE_0_JGProofofConcept)
+[2020.05.10-14.14.34:510][780]LogBlueprintUserMessages: [BP_Platform_2] OVERLAP
+[2020.05.10-14.14.35:619][913]LogBlueprintUserMessages: [BP_Platform2] OVERLAP
+[2020.05.10-14.14.36:752][ 49]LogBlueprintUserMessages: [BP_Platform3] OVERLAP
+[2020.05.10-14.14.37:819][177]LogBlueprintUserMessages: [BP_Platform4] OVERLAP
+[2020.05.10-14.14.39:136][335]LogBlueprintUserMessages: [BP_Platform5] OVERLAP
+[2020.05.10-14.14.40:461][494]LogBlueprintUserMessages: [BP_Platform6] OVERLAP
+[2020.05.10-14.14.41:695][642]LogBlueprintUserMessages: [BP_Platform7] OVERLAP
+[2020.05.10-14.14.46:716][243]LogNet: Browse: /Game/Player/Maps/JGProofofConcept
+[2020.05.10-14.14.46:716][243]LogLoad: LoadMap: /Game/Player/Maps/JGProofofConcept
+[2020.05.10-14.14.46:744][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.05.10-14.14.46:745][243]LogPlayLevel: Creating play world package: /Game/Player/Maps/UEDPIE_0_JGProofofConcept
+[2020.05.10-14.14.46:753][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008249s)
+[2020.05.10-14.14.46:754][243]LogAIModule: Creating AISystem for world JGProofofConcept
+[2020.05.10-14.14.46:754][243]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2020.05.10-14.14.46:754][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player/Maps/JGProofofConcept.JGProofofConcept to /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept (0.009190s)
+[2020.05.10-14.14.46:754][243]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.10-14.14.46:766][243]LogWorld: Bringing World /Game/Player/Maps/UEDPIE_0_JGProofofConcept.JGProofofConcept up for play (max tick rate 0) at 2020.05.10-15.14.46
+[2020.05.10-14.14.46:767][243]LogWorld: Bringing up level for play took: 0.011776
+[2020.05.10-14.14.46:767][243]LogLoad: Took 0.051966 seconds to LoadMap(/Game/Player/Maps/UEDPIE_0_JGProofofConcept)
+[2020.05.10-14.14.50:563][698]LogBlueprintUserMessages: [BP_Platform_2] OVERLAP
+[2020.05.10-14.14.51:713][836]LogBlueprintUserMessages: [BP_Platform2] OVERLAP
+[2020.05.10-14.14.53:005][991]LogBlueprintUserMessages: [BP_Platform3] OVERLAP
+[2020.05.10-14.14.54:380][156]LogBlueprintUserMessages: [BP_Platform5] OVERLAP
+[2020.05.10-14.15.01:215][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.15.01:215][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-14.15.01:246][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.10-14.15.01:247][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel' has LevelScriptBlueprint '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept' with GeneratedClass '/Game/Player/Maps/JGProofofConcept.JGProofofConcept_C' with ClassGeneratedBy '/Game/Player/Maps/JGProofofConcept.JGProofofConcept:PersistentLevel.JGProofofConcept'
+[2020.05.10-14.15.01:279][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-14.15.01:282][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.05.10-14.15.01:322][979]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.05.10-14.15.07:807][740]LogEditorViewport: Clicking on Actor (LMB): BP_PlatformYellow_C (BP_Platform2)
+[2020.05.10-14.15.13:524][396]Cmd: DELETE
+[2020.05.10-14.15.13:524][396]Cmd: ACTOR DELETE
+[2020.05.10-14.15.13:526][396]LogEditorActor: Deleted Actor: BP_PlatformYellow_C
+[2020.05.10-14.15.13:527][396]LogEditorActor: Deleted Actor: BP_PlatformYellow_C
+[2020.05.10-14.15.13:527][396]LogEditorActor: Deleted Actor: BP_PlatformYellow_C
+[2020.05.10-14.15.13:528][396]LogEditorActor: Deleted Actor: BP_PlatformYellow_C
+[2020.05.10-14.15.13:528][396]LogEditorActor: Deleted Actor: BP_PlatformYellow_C
+[2020.05.10-14.15.13:529][396]LogEditorActor: Deleted Actor: BP_PlatformYellow_C
+[2020.05.10-14.15.13:557][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.05.10-14.15.13:557][396]LogEditorActor: Deleted 6 Actors (0.033 secs)
+[2020.05.10-14.15.17:558][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.10-14.18.32:164][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.10-14.18.32:264][308]MapCheck: New page: Map Check
+[2020.05.10-14.18.32:273][308]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.10-14.18.32:273][308]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.10-14.18.32:310][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.05.10-14.18.32:320][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.10-14.18.32:328][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.10-14.18.32:335][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.10-14.18.32:342][308]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.10-14.18.32:850][308]TextureStreamingBuild: Display: Compiling optional shaders took 0.533 seconds.
+[2020.05.10-14.18.32:853][308]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2020.05.10-14.18.32:863][308]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2020.05.10-14.18.32:891][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.10-14.18.32:891][308]LightingResults: New page: Lighting Build - 10 May 2020 16:18:32
+[2020.05.10-14.18.32:920][308]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.10-14.18.32:924][308]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.10-14.18.32:924][308]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.10-14.18.32:925][308]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.10-14.18.32:925][308]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5644
+[2020.05.10-14.18.37:795][308]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.10-14.18.37:795][308]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.10-14.18.37:795][308]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.10-14.18.37:796][308]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.10-14.18.37:796][308]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.10-14.18.37:984][308]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.05.10-14.18.37:985][308]MapCheck: New page: JGProofofConcept - 10 May 2020 16:18:37
+[2020.05.10-14.18.37:985][308]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.05.10-14.18.37:985][308]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.328ms to complete.
+[2020.05.10-14.18.38:008][308]LogEditorBuildUtils: Build time 0:05
+[2020.05.10-14.18.38:169][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.05.10-14.18.43:319][751]LogSlate: Window 'Message Log' being destroyed
+[2020.05.10-14.18.43:329][751]LogSlate: Window 'Message Log' being destroyed
+[2020.05.10-14.18.46:989][ 87]Job is a success!
+[2020.05.10-14.18.47:039][ 88]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2020.05.10-14.18.47:039][ 88]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.10-14.18.47:039][ 88]LogVolumetricLightmapImport:      BrickData 70x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.05.10-14.18.47:039][ 88]LogVolumetricLightmapImport:      Bricks at Level
+[2020.05.10-14.18.47:039][ 88]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2020.05.10-14.18.47:039][ 88]LogVolumetricLightmapImport:          1: 14.3% covering 3.1% of volume
+[2020.05.10-14.18.47:039][ 88]LogVolumetricLightmapImport:          2: 78.6% covering 0.3% of volume
+[2020.05.10-14.18.47:435][ 88]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.05.10-14.18.47:435][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.05.10-14.18.47:435][ 88]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.05.10-14.18.47:435][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.05.10-14.18.47:436][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.05.10-14.18.47:436][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.05.10-14.18.47:635][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2020.05.10-14.18.47:672][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.05.10-14.18.47:672][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.05.10-14.18.47:679][ 88]LogStaticLightingSystem: JGProofofConcept_BuiltData storing lightmap data for 3 meshes in 3 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.05.10-14.18.47:705][ 88]Lightmass on USERCUS-K227H23: 9.06 sec total, 124 ms importing, 21 ms setup, 1.04 sec photons, 7.84 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 54.7 sec total, 12.0 sec processing.
+[2020.05.10-14.18.47:710][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.05.10-14.18.47:716][ 88]LogStaticLightingSystem: Illumination: 14.8 sec (348 ms encoding lightmaps, 231 ms encoding shadowmaps)
+[2020.05.10-14.18.47:716][ 88]LogStaticLightingSystem: Lightmap texture memory:  10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.05.10-14.18.47:716][ 88]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.05.10-14.18.47:805][ 88]DumpUnbuiltLightIteractions
+[2020.05.10-14.18.47:805][ 88]Lights with unbuilt interactions: 0
+[2020.05.10-14.18.47:805][ 88]
+[2020.05.10-14.18.47:805][ 88]Primitives with unbuilt interactions: 0
+[2020.05.10-14.18.47:857][ 89]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.10-14.18.47:857][ 89]MapCheck: New page: JGProofofConcept - 10 May 2020 16:18:47
+[2020.05.10-14.18.47:857][ 89]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2020.05.10-14.18.48:879][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Maps/JGProofofConcept" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.10-14.18.48:911][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.05.10-14.18.49:193][210]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/JGProofofConcept2A8259EF406FCC727B7191825A096D10.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept.umap'
+[2020.05.10-14.18.49:278][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Maps/JGProofofConcept_BuiltData" FILE="E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept_BuiltData.uasset" SILENT=true
+[2020.05.10-14.18.49:484][210]LogSavePackage: Moving 'E:/Jump-Game/JumpGameBuildInitial/Saved/JGProofofConcept_BuiltData9E3436F4439AB0EE3FFD6A86CE5E1731.tmp' to 'E:/Jump-Game/JumpGameBuildInitial/Content/Player/Maps/JGProofofConcept_BuiltData.uasset'
